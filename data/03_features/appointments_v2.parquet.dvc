@@ -1,0 +1,5 @@
+outs:
+- md5: 57f65118e216abe29742b349749ce9ee
+  size: 1930190
+  hash: md5
+  path: appointments_v2.parquet
